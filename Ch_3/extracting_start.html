@@ -12,6 +12,20 @@
     }
 
     window.addEventListener("load", function(e) {
+        // begin by plucking the midterm scores data from the students list
+        var midScores = _.pluck(students, "midterm_score");
+        midScores.sort(); // sort the array
+
+        // use the first() and last() functions to extract array data
+        var container = document.getElementById("container");
+        var data = "<p>First score is " + _.first(midScores) + "</p>";
+        data += "<p>Last score is " + _.last(midScores) + "</p>";
+        container.innerHTML = container.innerHTML + data;
+        
+        // initial() and rest() can also be used to get data
+        data = "<p>Initial scores, minus the last 3: " + _.initial(midScores,3) + "</p>";
+        data += "<p>Rest of the scores, minus the first 3: " + _.rest(midScores,3) + "</p>";
+        container.innerHTML = container.innerHTML + data;
     });
     </script>
 </head>
