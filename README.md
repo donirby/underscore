@@ -4,5 +4,5 @@ A repository for developing Underscore JS applications. It is based on a lynda.c
 
 ## Instructions
 
-### Another Header Placeholder
+### Resources
 [Underscore Website](http://underscorejs.org/)
