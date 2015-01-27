@@ -1,6 +1,6 @@
 Underscore JS
 =============
-A repository for developing Underscore JS applications. It is based on a lynda.com online course by Joe Marini: [Up and Running with jQuery Underscore.js] (http://www.lynda.com/sdk/AngularJS-tutorials/Building-Data-Driven-App-AngularJS/174237-2.html) 
+A repository for developing Underscore JS applications. It is based on a lynda.com online course by Joe Marini: [Up and Running with jQuery Underscore.js] (http://www.lynda.com/sdk/Underscorejs-tutorials/Up-Running-Underscorejs/145117-2.html) 
 
 ## Instructions
 
