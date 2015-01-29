@@ -1,5 +1,5 @@
 2015/01/23
-Up and Running with jQuery Underscore.js with Joe Marini
+Up and Running with Underscore.js with Joe Marini
 http://www.lynda.com/sdk/Underscorejs-tutorials/Up-Running-Underscorejs/145117-2.html
 
 2015/01/23
